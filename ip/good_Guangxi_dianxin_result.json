@@ -33,7 +33,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "广西 柳州 | Chinanet"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "116.9.102.69:9003",
@@ -96,7 +96,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "广西 柳州 | Chinanet"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "116.9.102.81:9003",
@@ -105,7 +105,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "广西 柳州 | Chinanet"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "116.9.102.82:9003",
@@ -141,7 +141,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "广西 柳州 | Chinanet"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "116.9.102.86:9003",
@@ -177,7 +177,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "广西 柳州 | Chinanet"
   },
   {
     "ip_port": "116.9.102.90:9003",
@@ -186,7 +186,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "广西 柳州 | Chinanet"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "116.9.102.92:9003",
@@ -204,7 +204,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "广西 柳州 | Chinanet"
   },
   {
     "ip_port": "116.9.102.94:9003",
@@ -222,7 +222,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "广西 柳州 | Chinanet"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "116.9.163.84:9003",
@@ -243,8 +243,8 @@
     "geo": "广西 柳州 | Chinanet"
   },
   {
-    "ip_port": "124.226.36.12:10000",
-    "ip": "124.226.36.12",
+    "ip_port": "124.226.36.68:10000",
+    "ip": "124.226.36.68",
     "port": "10000",
     "version": "",
     "max_client": "",
@@ -276,7 +276,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "广西 柳州 | Chinanet"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "124.226.192.35:10000",
@@ -1208,15 +1208,6 @@
   {
     "ip_port": "171.105.61.24:4022",
     "ip": "171.105.61.24",
-    "port": "4022",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "未知归属地"
-  },
-  {
-    "ip_port": "171.105.61.176:4022",
-    "ip": "171.105.61.176",
     "port": "4022",
     "version": "",
     "max_client": "",
@@ -2250,15 +2241,6 @@
     "geo": "未知归属地"
   },
   {
-    "ip_port": "220.173.24.156:8081",
-    "ip": "220.173.24.156",
-    "port": "8081",
-    "version": "",
-    "max_client": "",
-    "current_conn": "",
-    "geo": "广西 柳州 | Chinanet"
-  },
-  {
     "ip_port": "220.173.25.30:8081",
     "ip": "220.173.25.30",
     "port": "8081",
@@ -2274,7 +2256,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "广西 柳州 | Chinanet"
   },
   {
     "ip_port": "220.173.36.123:8081",
@@ -2310,7 +2292,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "广西 柳州 | Chinanet"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "220.173.55.23:8081",
@@ -2319,7 +2301,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "广西 柳州 | Chinanet"
   },
   {
     "ip_port": "220.173.61.43:8081",
@@ -2328,7 +2310,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "广西 柳州 | Chinanet"
   },
   {
     "ip_port": "220.173.61.44:8081",
@@ -2364,7 +2346,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "广西 柳州 | Chinanet"
+    "geo": "未知归属地"
   },
   {
     "ip_port": "220.173.117.66:8081",
@@ -2400,7 +2382,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "广西 柳州 | Chinanet"
   },
   {
     "ip_port": "220.173.117.70:8081",
@@ -2481,7 +2463,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "广西 柳州 | Chinanet"
   },
   {
     "ip_port": "220.173.117.83:8081",
@@ -2535,7 +2517,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "广西 柳州 | Chinanet"
   },
   {
     "ip_port": "220.173.117.89:8081",
@@ -2598,7 +2580,7 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "广西 柳州 | Chinanet"
   },
   {
     "ip_port": "220.173.138.163:8081",
@@ -2652,6 +2634,6 @@
     "version": "",
     "max_client": "",
     "current_conn": "",
-    "geo": "未知归属地"
+    "geo": "广西 柳州 | Chinanet"
   }
 ]
